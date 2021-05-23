@@ -41,4 +41,16 @@ public class Symulacja {
     public void UsuwanieNiedzwiedzia(){
 
     }
+    public void UsuwanieCzlowieka(){
+
+    }
+    public void TworzenieKawalerii(){
+
+    }
+    public void UstawKolejnoscRuchuKazdegoOsobnika(){
+
+    }
+    public void Stop(){
+
+    }
 }
